@@ -1,4 +1,4 @@
-![Screenshot (103)](https://github.com/user-attachments/assets/42777ed1-4e83-4f20-a272-ac8a9235acc1)# numberguess
+# numberguess
 number guessing game-pygame
 a fun,visual number guessing game built with python and pygame
 
@@ -6,7 +6,8 @@ a fun,visual number guessing game built with python and pygame
 project goal
 -------------
 
-the game selects a random number between 1 and 100 ,the player types their guesses and the game provides feedback (too low or too high or correcr)
+the game selects a random number between 1 and 100 ,
+the player types their guesses and the game provides feedback (too low or too high or correcr)
 win the game in as few attempts as possible
 
 
