@@ -1,6 +1,6 @@
 # numberguess
 number guessing game-pygame
-a fun,visual number guessing game built with python and pygame
+its a fun,visual number guessing game built with python and pygame
 
 
 project goal
